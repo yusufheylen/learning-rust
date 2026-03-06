@@ -1,0 +1,1 @@
+/Users/yusufheylen/Documents/local-projects/learning-rust/trplb-projects/variables/target/debug/variables: /Users/yusufheylen/Documents/local-projects/learning-rust/trplb-projects/variables/src/main.rs
